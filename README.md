@@ -35,6 +35,7 @@ This is a real-time chat application built using React and Firebase. Users can r
    - REACT_APP_FIREBASE_STORAGE_BUCKET=your_storage_bucket
    - REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
    - REACT_APP_FIREBASE_APP_ID=your_app_id
-5.Run the application:
+   - 
+5. Run the application:
     npm run dev
 
